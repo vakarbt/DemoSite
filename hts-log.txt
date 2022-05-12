@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 May 2022 12:02:22 at https://site371602.nicepage.io/?version=7058182e-3ed4-4f3f-8201-ff426a29bb4e&uid=e6a9c9c4-a789-4735-a2ff-dbaf0e851deb +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://site371602.nicepage.io/?version=7058182e-3ed4-4f3f-8201-ff426a29bb4e&uid=e6a9c9c4-a789-4735-a2ff-dbaf0e851deb -O1 "C:\Benim Web Sitem\AS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:02:23	Warning: 	File not parsed, looks like binary: https://site371602.nicepage.io/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 17 links scanned, 16 files written (1941842 bytes overall) [562197 bytes received at 25554 bytes/sec], 1629970 bytes transferred using HTTP compression in 13 files, ratio 14%, 2.1 requests per connection
+(No errors, 1 warnings, 0 messages)
